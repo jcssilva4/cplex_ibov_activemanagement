@@ -1,0 +1,10 @@
+VVAR11->	Nome:Via Varejo S.A	Setor:Services
+KLBN11->	Nome:Kablin S.A.	Setor: Basic Materials
+SANB11->	Nome:BCO Santander(Brasil) S.A.	Setor: Financial
+SAPR11->	Nome:Cia Saneamento do Parana - SANEPAR	Setor: Utilities
+SUZB5->	Nome:Suzano Papel e Celulose S.A.	Setor: Consumer Goods
+CTIP3->	Nome:CETIP	Setor: Financial
+VALE5->	Nome:Vale S.A. Setor: Basic Materials
+SMLE3-> Nome:Smiles S.A. Setor: Consumer Goods
+RUMO3-> Nome:Rumo S.A.	Setor: Services
+TBLE3->	Nome:Tractebel Energia S.A.	Setor: Utilities

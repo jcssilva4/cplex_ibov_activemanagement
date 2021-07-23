@@ -1,0 +1,8 @@
+function [Ropt] = getOverallR ( w, P)
+
+    somaWR = 0;
+    for i
+        somaWR = somaWR + currentW*currentR;   
+
+    Ropt = somaWR;
+end

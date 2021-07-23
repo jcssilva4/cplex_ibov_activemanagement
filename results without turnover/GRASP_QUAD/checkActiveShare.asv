@@ -1,0 +1,14 @@
+function AS = ActiveShareOk(x, P, S) %returns 0 or 1
+
+    % sum = sum(min(wi,wbi)) <= 0.4
+    sum = 0;
+    for i = 1:length(P.initialAssetList)
+        if(ismember(i,S)) %if stock i is included in the Portfolio S
+           % fprintf('\nlength(xred): %d requested idx:%d ',...
+            %    length(xreduced),find(ismember(S,i)));
+            x(i) = xreduced(find(ismember(S,i)));
+        else
+           %x
+        end
+    end
+end

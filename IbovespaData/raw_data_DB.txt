@@ -1,0 +1,72 @@
+CODE	SITUATION	YAHOOCODE	NAME	SECTOR	memberP1	memberP2	memberP3	memberP4	memberP5	memberP6	
+VIVT4	on	VIVT4.SA	Telefônica Brasil S.A.	Technology	1	1	1	1	1	1	
+KROT3	on	KROT3.SA	Kroton Educacional S.A.	Services	1	1	1	1	1	1	
+RADL3	on	RADL3.SA	Raia Drogasil S.A.	Healthcare	1	1	1	1	1	1	
+ITUB4	on	ITUB4.SA	Itaú Unibanco Holding S.A.	Financial	1	1	1	1	1	1	
+BVMF3	on	BVMF3.SA	B3 S.A. - Brasil, Bolsa, Balcão	Financial	1	1	1	1	1	1	
+ABEV3	on	ABEV3.SA	Ambev S.A.	Consumer Goods	1	1	1	1	1	1	
+ECOR3	on	ECOR3.SA	EcoRodovias Infraestrutura e Logística S.A.	Industrial Goods	1	1	1	1	1	1	
+SUZB5	off	NULLCODE	Suzano Papel e Celulose S.A.	Consumer Goods	1	1	1	1	1	0	
+TIMP3	on	TIMP3.SA	TIM Participações S.A.	Technology	1	1	1	1	1	1	
+EQTL3	on	EQTL3.SA	Equatorial Energia S.A.	Utilities	1	1	1	1	1	1	
+CSNA3	on	CSNA3.SA	Companhia Siderúrgica Nacional	Basic Materials	1	1	1	1	1	1	
+PCAR4	on	PCAR4.SA	Companhia Brasileira de Distribuição	Services	1	1	1	1	1	1	
+WEGE3	on	WEGE3.SA	WEG S.A.	Industrial Goods	1	1	1	1	1	1	
+USIM5	on	USIM5.SA	Usinas Siderúrgicas de Minas Gerais S.A.	Basic Materials	1	1	1	1	1	1	
+BBDC4	on	BBDC4.SA	Banco Bradesco S.A.	Financial	1	1	1	1	1	1	
+JBSS3	on	JBSS3.SA	JBS S.A.	Consumer Goods	1	1	1	1	1	1	
+PETR4	on	PETR4.SA	Petróleo Brasileiro S.A. - Petrobras	Basic Materials	1	1	1	1	1	1	
+ITSA4	on	ITSA4.SA	Itaúsa - Investimentos Itaú S.A.	Financial	1	1	1	1	1	1	
+HYPE3	on	HYPE3.SA	Hypera S.A.	Healthcare	1	1	1	1	1	1	
+RAIL3	on	RAIL3.SA	Rumo S.A.	Services	0	0	0	1	1	1	
+BRFS3	on	BRFS3.SA	BRF S.A.	Consumer Goods	1	1	1	1	1	1	
+CIEL3	on	CIEL3.SA	Cielo S.A.	Technology	1	1	1	1	1	1	
+KLBN11	on	KLBN11.SA	Klabin S.A.	Basic Materials	1	1	1	1	1	1	
+TAEE11	on	TAEE11.SA	Transmissora Aliança de Energia Elétrica S.A.	Utilities	0	0	0	0	1	1	
+PETR3	on	PETR3.SA	Petróleo Brasileiro S.A. - Petrobras	Basic Materials	1	1	1	1	1	1	
+SMLS3	on	SMLS3.SA	Smiles Fidelidade S.A.	Consumer Goods	0	0	0	0	0	1	
+IGTA3	on	IGTA3.SA	Iguatemi Empresa de Shopping Centers S.A.	Financial	0	0	0	0	0	1	
+SANB11	on	SANB11.SA	BCO Santander(Brasil) S.A.	Financial	1	1	1	1	1	1	
+CCRO3	on	CCRO3.SA	CCR S.A.	Industrial Goods	1	1	1	1	1	1	
+ELET3	on	ELET3.SA	Centrais Elétricas Brasileiras S.A. - Eletrobras	Utilities	0	0	1	1	1	1	
+FIBR3	on	FIBR3.SA	Fibria Celulose S.A.	Consumer Goods	1	1	1	1	1	1	
+SAPR11	on	SAPR11.SA	Cia Saneamento do Parana - SANEPAR	Utilities	0	0	0	0	0	1	
+CTIP3	off	NULLCODE	CETIP	Financial	1	1	1	0	0	0	
+GOAU4	on	GOAU4.SA	Metalurgica Gerdau S.A.	Basic Materials	1	1	1	1	1	1	
+CPFE3	on	CPFE3.SA	CPFL Energia S.A.	Utilities	1	1	1	1	1	1	
+RUMO3	off	NULLCODE	Rumo S.A.	Services	1	1	1	0	0	0	
+ELET6	on	ELET6.SA	Centrais Elétricas Brasileiras S.A. - Eletrobras	Utilities	0	0	0	1	1	1	
+LREN3	on	LREN3.SA	Lojas Renner S.A.	Services	1	1	1	1	1	1	
+MRFG3	on	MRFG3.SA	Marfrig Global Foods S.A.	Consumer Goods	1	1	1	1	1	1	
+BRML3	on	BRML3.SA	BR Malls Participações S.A.	Financial	1	1	1	1	1	1	
+EMBR3	on	EMBR3.SA	Embraer S.A.	Industrial Goods	1	1	1	1	1	1	
+VALE5	off	NULLCODE	Vale S.A	Basic Materials	1	1	1	1	0	0	
+ESTC3	on	ESTC3.SA	Estácio Participações S.A.	Services	1	1	1	1	1	1	
+NATU3	on	NATU3.SA	Natura Cosméticos S.A.	Consumer Goods	1	1	1	1	1	1	
+SMLE3	off	NULLCODE	Smiles S.A.	Consumer Goods	1	1	1	1	1	0	
+MULT3	on	MULT3.SA	Multiplan Empreendimentos Imobiliários S.A.	Financial	1	1	1	1	1	1	
+GGBR4	on	GGBR4.SA	Gerdau S.A.	Basic Materials	1	1	1	1	1	1	
+SBSP3	on	SBSP3.SA	Companhia de Saneamento Básico do Estado de São Paulo - SABESP	Utilities	1	1	1	1	1	1	
+CPLE6	on	CPLE6.SA	Companhia Paranaense de Energia - COPEL	Utilities	1	1	1	1	1	1	
+SUZB3	on	SUZB3.SA	Suzano Papel e Celulose S.A.	Consumer Goods	0	0	0	0	0	1	
+BBDC3	on	BBDC3.SA	Banco Bradesco S.A.	Financial	1	1	1	1	1	1	
+VALE3	on	VALE3.SA	Vale S.A.	Basic Materials	1	1	1	1	1	1	
+VVAR11	on	VVAR11.SA	Via Varejo S.A.	Services	0	0	0	0	0	1	
+FLRY3	on	FLRY3.SA	Fleury S.A.	Healthcare	0	0	0	0	0	1	
+BBSE3	on	BBSE3.SA	BB Seguridade Participações S.A.	Financial	1	1	1	1	1	1	
+TBLE3	off	NULLCODE	Tractebel Energia S.A.	Utilities	1	0	0	0	0	0	
+CSAN3	on	CSAN3.SA	Cosan S.A. Indústria e Comércio	Basic Materials	1	1	1	1	1	1	
+CMIG4	on	CMIG4.SA	Companhia Energética de Minas Gerais	Utilities	1	1	1	1	1	1	
+QUAL3	on	QUAL3.SA	Qualicorp S.A.	Healthcare	1	1	1	1	1	1	
+MRVE3	on	MRVE3.SA	MRV Engenharia e Participações S.A.	Industrial Goods	1	1	1	1	1	1	
+CESP6	on	CESP6.SA	CESP - Companhia Energética de São Paulo	Utilities	1	0	0	0	0	0	
+ENBR3	on	ENBR3.SA	EDP - Energias do Brasil S.A.	Utilities	1	1	1	1	1	1	
+MGLU3	on	MGLU3.SA	Magazine Luiza S.A.	Services	0	0	0	0	0	1	
+RENT3	on	RENT3.SA	Localiza Rent a Car S.A.	Services	1	1	1	1	1	1	
+LAME4	on	LAME4.SA	Lojas Americanas S.A.	Services	1	1	1	1	1	1	
+UGPA3	on	UGPA3.SA	Ultrapar Participações S.A.	Basic Materials	1	1	1	1	1	1	
+BBAS3	on	BBAS3.SA	Banco do Brasil S.A.	Financial	1	1	1	1	1	1	
+CYRE3	on	CYRE3.SA	Cyrela Brazil Realty S.A. Empreendimentos e Participações	Industrial Goods	1	1	1	1	1	1	
+BRAP4	on	BRAP4.SA	Bradespar S.A.	Financial	1	1	1	1	1	1	
+BRKM5	on	BRKM5.SA	Braskem S.A.	Basic Materials	1	1	1	1	1	1	
+EGIE3	on	EGIE3.SA	Engie Brasil Energia S.A.	Utilities	0	1	1	1	1	1	

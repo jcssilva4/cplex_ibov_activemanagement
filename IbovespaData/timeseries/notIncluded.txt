@@ -1,0 +1,21 @@
+DATE	 DO NOT INCLUDE THIS ASSET
+2017-12-28	SMLE3	Smiles S.A.
+2017-12-28	SUZB5	Suzano Papel e Celulose S.A.
+2017-11-29	SMLE3	Smiles S.A.
+2017-11-29	SUZB5	Suzano Papel e Celulose S.A.
+2017-10-27	SMLE3	Smiles S.A.
+2017-09-28	RAIL3	Rumo S.A.
+2017-08-30	RAIL3	Rumo S.A.
+2017-08-02	RAIL3	Rumo S.A.
+2017-07-05	RAIL3	Rumo S.A.
+2017-06-06	RAIL3	Rumo S.A.
+2017-05-09	RAIL3	Rumo S.A.
+2017-04-06	CTIP3	CETIP
+2017-04-06	RUMO3	Rumo S.A.
+2017-02-07	EGIE3	Engie Brasil Energia S.A.
+2017-01-09	EGIE3	Engie Brasil Energia S.A.
+2016-12-09	EGIE3	Engie Brasil Energia S.A.
+2016-11-10	EGIE3	Engie Brasil Energia S.A.
+2016-10-11	EGIE3	Engie Brasil Energia S.A.
+2016-09-13	EGIE3	Engie Brasil Energia S.A.
+2016-08-15	TBLE3	Tractebel Energia S.A.
